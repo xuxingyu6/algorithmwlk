@@ -11,6 +11,9 @@
 .mtj.tmp/
 .idea/
 
+# SomeFile we don't need to show
+.gitignore
+
 # Package Files #
 *.jar
 *.war
